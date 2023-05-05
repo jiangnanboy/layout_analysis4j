@@ -1,0 +1,5 @@
+java=11
+onnxruntime=1.11.0
+javacv-platform=1.5.7
+...
+
